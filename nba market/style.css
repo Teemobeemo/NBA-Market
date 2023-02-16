@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background: #212121;
+}
+
+/* logo */
+
+.logo1{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
+/* Nav */
+
+.row{
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 29%;
+    margin-bottom: 50px;
+    
+}
+
+.block{
+    width: 85px;
+    text-align: right;
+    margin-top: -35px;
+    margin-left: 110px;
+}
+
+/* section */
+
+.container img {
+    width: 20%;
+    height: auto;
+    float: right;
+    margin-right: 80px;
+    border-radius: 1%;
+    margin-top: 1%;
+    
+}
+
+.price{
+    float: right;
+    margin-right: 93px;
+    color: white;
+}
+
+.price2{
+    float: right;
+    margin-right: 390px;
+    color: white;
+}
+
+.price3{
+    float: right;
+    margin-right: 395px;
+    color: white;
+}
+
+.price4{
+    float: right;
+    margin-right: 405px;
+    color: white;
+}
+
+.btn{
+    text-align: right;
+}
+
+.btn2{
+    text-align: right;
+}
+
+.btn3{
+    text-align: right;
+}
+
+.button input{
+    margin-left: 2%;
+    margin-top: 1.2%;
+    padding: 10px;
+    background: none;
+    border: 1px solid #7993E2;
+    color: white;
+}
+
+.btn1 input{
+    margin-left: 50.5%;
+    position: absolute;
+    margin-top: -38px;
+    padding: 10px;
+    background: none;
+    border: 1px solid #7993E2;
+    color: white;
+}
+
+.btn2 input{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -37px;
+    padding: 10px;
+    background: none;
+    border: 1px solid #7993E2;
+    color: white;
+}
+
+.btn3 input{
+    position: absolute;
+    margin-left: 990px;
+    margin-top: -38px;
+    padding: 10px;
+    background: none;
+    border: 1px solid #7993E2;
+    color: white;
+}
+
+.rectangle2{
+    background-color: white;
+}
+
+/* search bar */
+
+.search input{
+    margin-left: 30px;
+    padding: 10px;
+    background: none;
+    border: 1px solid yellow;
+    color: white;
+    border-radius: 20px;
+    width: 20.5%;
+}
+
+.searchbar input{
+    margin-left: 12%;
+    position: absolute;
+    padding: 10px;
+    background: none;
+    border: 1px solid #7993E2;
+    color: white;
+    border-radius: 20px;
+    width: 10%;
+    
+}
+
+/* footer */
+
+.rectangle{
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    left: 0px;
+    top: 3790px;
+    background: linear-gradient(180deg, rgba(66, 77, 109, 0.5) 0%, rgba(43, 44, 45, 0) 100%);
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+
+.logo img{
+  position: absolute;
+  bottom: -2960px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+}
+
+.text h5{
+    color: white;
+    position: absolute;
+    bottom: -2945px;
+    margin-left: 50px;
+    font-weight: lighter;
+    margin-bottom: 60px
+}
+
+.text h1{
+    color: white;
+    position: absolute;
+    bottom: -2875px;
+    margin-left: 65%;
+    font-weight: lighter;
+    margin-bottom: -0.5%;
+    font-size: 13px;
+}
+
+.text h2{
+    color: white;
+    position: absolute;
+    bottom: -2875px;
+    margin-left: 72%;
+    font-weight: lighter;
+    margin-bottom: -0.5%;
+    font-size: 13px;
+}
+
+.text h3{
+    color: white;
+    position: absolute;
+    bottom: -2875px;
+    margin-left: 80%;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-bottom: -0.5%;
+}
+
+.text h4{
+    color: white;
+    position: absolute;
+    bottom: -2875px;
+    margin-left: 90%;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-bottom: -0.5%;
+}
+
+.text h6{
+    color: white;
+    position: absolute;
+    bottom: -2930px;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+
+.dzia{
+    color:white;
+    
+}
+/* footer */
+
+@media screen and (min-width: 480px) {
+    .searchbar input{
+        color: red;
+    }
+  }
+
+
+
+
+
+
+/* Pagintion */
+
+
+
+/* Pagintion */
